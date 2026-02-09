@@ -1,0 +1,1 @@
+适配PCL1.14.0+Qt5.15.2+VTK9.3.0的VTK，是放到C:\Program Files\PCL 1.14.0\3rdParty\VTK目录下的适配文件。
